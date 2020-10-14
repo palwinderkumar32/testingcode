@@ -1,0 +1,18 @@
+SMAP
+uploadimage_jsp.java
+JSP
+*S JSP
+*F
++ 0 uploadimage.jsp
+uploadimage.jsp
+*L
+1,9:47
+9:56,2
+10:58,6
+12,2:65
+13:67,2
+15,33:70
+47,3:103
+49:105,5
+50,6:110
+*E

@@ -1,0 +1,12 @@
+SMAP
+testdb_jsp.java
+JSP
+*S JSP
+*F
++ 0 testdb.jsp
+testdb.jsp
+*L
+1,26:46
+26:72,2
+27:74,4
+*E
